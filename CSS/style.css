@@ -23,7 +23,7 @@ body{
 .link-button{
     text-decoration: none;
     padding: 8px 25px;
-    background-image:;
+    background-image:linear-gradient(tomato, orange);
     font-weight: 900;
     color: white;
     border-radius: 5px;
