@@ -5,3 +5,28 @@ body{
 .orange-color{
     color: orange;
 }
+section{
+    display: flex;
+}
+.width-ok{
+    width: 50%;
+    padding-left: 2%;
+
+}
+.width-ok img{
+    width: 80%;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 8px 25px;
+    background-image:linear-gradient(red, orange);
+    font-weight: 900;
+    color: white;
+    border-radius: 5px;
+
+}
+.top-banner{
+    background-image: url(top-banner.png);
+
+}
